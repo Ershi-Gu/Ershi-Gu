@@ -12,4 +12,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F2F7&random=false&width=435&lines=%22Welcome+to+my+sea+of+development.%22)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F2F7&random=false&width=435&lines=%22Welcome+to+my+sea+of+development.%22)
