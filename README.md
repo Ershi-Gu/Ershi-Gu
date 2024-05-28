@@ -1,6 +1,6 @@
 ## 我叫顾贰拾 👋
 - 🚩一名已入土一年的 java 大学生开发者👿
-- 📁开发项目：[云智能 BI 数据分析平台](https://github.com/Ershi-Gu/yunzhineng-bi-backend)|[Ershi-API 接口开放平台](https://github.com/Ershi-Gu/ershi-api-center)
+- 📁开发项目：[云智能 BI 数据分析平台](https://github.com/Ershi-Gu/yunzhineng-bi-backend) | [Ershi-API 接口开放平台](https://github.com/Ershi-Gu/ershi-api-center)
 - 🗨️欢迎和我交朋友：微信📧qingtian20xx(请备注来意)
 
 ### 我的技术栈 🔍
