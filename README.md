@@ -1,6 +1,6 @@
 ## 我叫贰拾_ 👋
 - 🚩一名已入土两点半的 java 开发者
-- 👿欢迎来我的博客玩：[hello-life](www.guershi.cn)，或者你可以来我最新的[聊天室](https://hichat.guershi.cn)找我~
+- 👿欢迎来我的博客玩：[hello-life](https://www.guershi.cn)，或者你可以来我最新的[聊天室](https://hichat.guershi.cn)找我~
 - 📁开发项目：[HiChat 聊天室](https://hichat.guershi.cn) | [答乎 智慧问答平台](https://github.com/Ershi-Gu/dahu) | [云智能 BI 数据分析平台](https://github.com/Ershi-Gu/yunzhineng-bi-backend) | [Ershi-API 接口开放平台](https://github.com/Ershi-Gu/ershi-api-center)
 - 🗨️欢迎和我交朋友：微信📧qingtian20xx(请备注来意)
 
